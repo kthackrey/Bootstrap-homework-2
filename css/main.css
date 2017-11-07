@@ -1,22 +1,39 @@
+* {
+  font-family: serif;
+  color: #E8C6FF;
+}
 
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #E8C6FF;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+h1 {
+  text-align: center;
+}
 
+.jumbotron h1 {
+  font-size: 60pt;
+}
 
+.row h1 {
+    padding-bottom: 10px;
+}
 
+h3 {
+  font-weight: bold;
+}
 
+.panel-title {
+  color: black;
+  text-align: center;
+}
 
+ .col-md-2 .panel {
+  height: 375px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+p {
+  font-size: 15pt;
+}
